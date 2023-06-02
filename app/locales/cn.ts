@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，或者填入你自己的 OpenAI API Key。",
+      "本网站仅供【励步英语内部员工】使用，请联系管理员获取访问码，然后在[设置](/#/settings)页面输入访问码进行使用",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
